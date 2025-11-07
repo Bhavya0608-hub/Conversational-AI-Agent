@@ -1,8 +1,8 @@
-# 🔊 AI Voice Agent with Twilio & ElevenLabs (Inbound + Outbound Calling)
+# 🔊 AI Voice Agent with Twilio & ElevenLabs (Outbound Calling)
 
 This project enables *real-time voice conversations* over phone calls using:
 
-- *Twilio* → Handles incoming/outgoing phone calls
+- *Twilio* → Handles outgoing phone calls
 - *ElevenLabs Conversational AI* → AI Voice Agent that understands and responds live
 - *WebSockets* → Streams live audio between Twilio & ElevenLabs
 
@@ -17,7 +17,6 @@ You can:
 
 | Feature | Status | Description |
 |--------|--------|-------------|
-| Inbound Call Support | ✅ | AI answers incoming calls via Twilio Webhooks |
 | Outbound Calls | ✅ | Trigger AI outbound calls via REST API |
 | Live Audio Streaming | ✅ | Full-duplex WebSocket audio between Twilio & ElevenLabs |
 | Natural Voice AI | ✅ | ElevenLabs Conversational Agent handles speech + logic |
