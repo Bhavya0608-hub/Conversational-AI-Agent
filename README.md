@@ -35,6 +35,9 @@ Both projects share a common foundation while serving different use cases:
 - **Conversational AI Agent**: Inbound/Interactive conversations
 - **SolarVoxAI**: Outbound voice campaigns for solar sales
 
+### Live Dashboard
+You can access the live dashboard [here](https://v0-solar-dashboard-with-retell.vercel.app/).
+
 ---
 
 ## ✨ Key Features
